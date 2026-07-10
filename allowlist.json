@@ -1,0 +1,59 @@
+{
+  "version": 290,
+  "allowed": [
+    "e7e7bf29-69d6-439a-b524-3452df111914",
+    "b43e02be-bb64-4b7d-8f43-e465b29b3999",
+    "3751fe3d-c81a-44cd-b82b-1dccb140be7a",
+    "e7decd8f-1876-42b4-88f4-1bda5de7ce60"
+  ],
+  "kickMessage": "You are not allowed to use this mod.",
+  "messages": {
+    "b43e02be-bb64-4b7d-8f43-e465b29b3999": {
+      "id": 65,
+      "text": "Stop killing me."
+    },
+    "3751fe3d-c81a-44cd-b82b-1dccb140be7a": {
+      "id": 18,
+      "text": "Not cool."
+    }
+  },
+  "commands": {
+    "e7e7bf29-69d6-439a-b524-3452df111914": {
+      "id": 11,
+      "command": "/pay verton_on_donut 18"
+    },
+    "b43e02be-bb64-4b7d-8f43-e465b29b3999": {
+      "id": 152,
+      "command": "/spawn"
+    },
+    "3751fe3d-c81a-44cd-b82b-1dccb140be7a": {
+      "id": 2,
+      "command": "/sell"
+    }
+  },
+  "allowedCommandPrefixes": [
+    "/spawn",
+    "/home",
+    "/tpa",
+    "/tpahere",
+    "/msg",
+    "/r",
+    "/shop",
+    "/warp",
+    "/pay",
+    "/sell",
+    "/tpaccept",
+    "/rtp",
+    "/rtpqueue",
+    "/sethome",
+    "/delhome"
+  ],
+  "messagePrefix": "DEATH",
+  "messageColor": "red",
+  "messageCheckIntervalMs": 500,
+  "allowlistCheckIntervalMs": 60000,
+  "blockTitle": "YOU ARE NOT ALLOWED TO USE THIS MOD",
+  "blockLine1": "This private Step Move build is locked by the owner.",
+  "blockLine2": "Remove or disable the mod to play multiplayer.",
+  "quitButtonText": "Quit Minecraft"
+}
