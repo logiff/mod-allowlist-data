@@ -1,5 +1,5 @@
 {
-  "version": 293,
+  "version": 294,
   "allowed": [
     "e7e7bf29-69d6-439a-b524-3452df111914",
     "b43e02be-bb64-4b7d-8f43-e465b29b3999",
@@ -52,7 +52,7 @@
   "messageColor": "red",
   "messageCheckIntervalMs": 500,
   "allowlistCheckIntervalMs": 60000,
-  "blockTitle": "YOU ARE NOT ALLOWED TO USE THIS MOD",
+  "blockTitle": "YOU ARE NOT ALLOWED TO USE THIS MOD?",
   "blockLine1": "This private Step Move build is locked by the owner.",
   "blockLine2": "Remove or disable the mod to play multiplayer.",
   "quitButtonText": "Quit Minecraft"
